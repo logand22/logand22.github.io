@@ -1,4 +1,0 @@
-baseURL = "https://www.logan-davis.com"
-languageCode = "en-us"
-title = "My New Hugo Site"
-publishDir = "docs"

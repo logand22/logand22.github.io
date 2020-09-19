@@ -1,14 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>My Blog</title>
     <link>https://www.logan-davis.com/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on My Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 18 Sep 2020 21:53:09 -0500</lastBuildDate>
     
 	<atom:link href="https://www.logan-davis.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://www.logan-davis.com/welcome/</link>
+      <pubDate>Fri, 18 Sep 2020 21:51:55 -0500</pubDate>
+      
+      <guid>https://www.logan-davis.com/welcome/</guid>
+      <description>Welcome Palma Family!
+Yay!</description>
+    </item>
     
   </channel>
 </rss>

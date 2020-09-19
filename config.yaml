@@ -1,0 +1,11 @@
+baseURL: "https://www.logan-davis.com"
+languageCode: "en-us"
+title: "My Blog"
+publishDir: "docs"
+theme: "hugo-PaperMod"
+
+params:
+  defaultTheme: dark
+  homeInfoParams:
+    Title: Hi there wave
+    Content: Can be Info, links, about...
